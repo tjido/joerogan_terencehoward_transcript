@@ -5,7 +5,7 @@ This repository contains the transcript of the Joe Rogan Experience podcast epis
 
 ## Contents
 - Transcript: [Joe Rogan Experience #2152 - Terrence Howard.txt](https://github.com/tjido/joerogan_terencehoward_transcript/blob/main/Joe%20Rogan%20Experience%20%232152%20-%20Terrence%20Howard.txt) - The full transcript of the podcast episode.
-- GPT-4o Discussion: [Conversation about Scientific Findings](https://chatgpt.com/share/3325e309-4f8c-4d7e-9c92-465e1c886540) - A detailed discussion on the scientific hypotheses presented in the podcast, analyzed using GPT-4o.
+- GPT-4o Discussion: [Conversation about Scientific Findings](https://chatgpt.com/share/8682227b-f935-4283-b0e4-746601ddab67) - A detailed discussion on the scientific hypotheses presented in the podcast, analyzed using GPT-4o.
 
 
 
