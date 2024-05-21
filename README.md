@@ -4,8 +4,9 @@
 This repository contains the transcript of the Joe Rogan Experience podcast episode #2152 featuring Terrence Howard. The conversation covers a wide range of topics including prenatal memories, unified field theory, electromagnetism, gravity, and more. This transcript is made publicly available for data scientists, researchers, and anyone interested in exploring the content of the conversation.
 
 ## Contents
-- **Transcript**: [`Joe Rogan Experience #2152 - Terrence Howard.txt`](Joe_Rogan_Experience_2152_Transcript.txt) - The full transcript of the podcast episode.
-- **GPT-4 Discussion**: [Conversation about Scientific Findings](https://chatgpt.com/share/3325e309-4f8c-4d7e-9c92-465e1c886540) - A detailed discussion on the scientific hypotheses presented in the podcast, analyzed using GPT-4.
+- The full transcript of the podcast episode: [Joe Rogan Experience #2152 - Terrence Howard.txt](https://github.com/tjido/joerogan_terencehoward_transcript/blob/main/Joe%20Rogan%20Experience%20%232152%20-%20Terrence%20Howard.txt)
+- GPT-4o Discussion: [Conversation about Scientific Findings](#) - A detailed discussion on the scientific hypotheses presented in the podcast, analyzed using GPT-4.
+
 
 
 ## Purpose
